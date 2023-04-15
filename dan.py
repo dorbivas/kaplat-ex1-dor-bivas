@@ -2,8 +2,12 @@ import dan.py
 
 run dan()
 do some dan()
-dan += dan + 1
+delted some code
 
-make dan.UI
 
-return dan.APP
+added gere some code
+
+this is a unit that build UI fully now.
+and lunch the rocket
+
+
